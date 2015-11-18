@@ -7,4 +7,5 @@
     <string name="wifi_body">Please turn on the WiFi!</string>
     <string name="bt_head">Bluetooth is off</string>
     <string name="bt_body">Please turn on the Bluetooth!</string>
+    <string name="snd_txt">Sound Tester</string>
 </resources>
