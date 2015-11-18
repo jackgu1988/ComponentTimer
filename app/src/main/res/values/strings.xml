@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComponentTimer</string>
+    <string name="wifi_txt">WiFi Tester</string>
+    <string name="bt_txt">Bluetooth Tester</string>
+    <string name="time_txt">Time required: %s ms</string>
+    <string name="wifi_head">WiFi is off</string>
+    <string name="wifi_body">Please turn on the WiFi!</string>
+    <string name="bt_head">Bluetooth is off</string>
+    <string name="bt_body">Please turn on the Bluetooth!</string>
+</resources>
